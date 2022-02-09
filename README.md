@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KerbalFighter
+- 👀 I’m interested in programming and astronomy
+- 🌱 I’m currently learning all I can about astronomy and programming
+- 💞️ I’m looking to collaborate on nothing, at the  moment.
+- 📫 How to reach me: e-mail ewald@waliszewski.eu
